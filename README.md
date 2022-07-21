@@ -4,7 +4,7 @@ Participating in and completing 30 day [Vanilla JS challenge (#JavaScript30)](ht
 ## Todo Challenges
 
 - [x] 🥁 [JS Drum Kit](https://js-drumskit.netlify.app/)
-- [ ] 🕒 JS and CSS Clock
+- [x] 🕒 [JS and CSS Clock](https://css-js-simple-clock.netlify.app/)
 - [ ] 🖼 CSS Variables
 - [ ] 🕺🏻 Array Cardio Day 1
 - [ ] 💪🏻 Flex Panel Gallery
